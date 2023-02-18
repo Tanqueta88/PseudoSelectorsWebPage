@@ -152,3 +152,19 @@ tr.data td:last-of-type {
   padding: 0.5rem;
 
 }
+
+body {
+  background-color: rgb(184, 132, 46);
+}
+
+id {
+  background-color: #8B4513;
+}
+
+#back-wall {
+  width: 100%;
+  height: 60%;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
